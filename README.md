@@ -5,6 +5,17 @@
 - npm start
 - npm run build
 
+# Why Me...
+
+Keith Williams is an innovative, forward-thinking leader with a passion for revolutionizing education. With a deep understanding of the challenges facing the traditional educational system, Keith is determined to make a lasting impact on the way students learn and grow. His dedication to promoting inclusivity and accessibility in the educational sphere is evident in the development of a cutting-edge AI-powered Learning Management System (LMS) that caters to the diverse needs of learners around the world.
+
+Throughout his career, Keith has demonstrated his commitment to leveraging technology for the betterment of education. He has sought the most effective ways to integrate emerging technologies, such as AI and machine learning, into the educational landscape. This experience has given him unique insight into the potential of AI-powered solutions like ChatGPT to transform the way students learn and interact with educational content.
+
+Keith's impressive background in entrepreneurship, technology startups, and over 30 years of software development experience, combined with his 20 years of teaching experience, make him the ideal candidate to lead this ambitious project. His visionary approach to education, understanding of the needs of both students and educators, and ability to build and lead a dedicated team are just a few of the reasons why Keith is the best person to inspire others to embark on this journey to revolutionize education with the help of AI.
+
+As a great team leader, Keith knows how to bring together a diverse group of individuals, fostering an environment where collaboration and innovation can thrive. He understands the importance of building a strong team that shares his vision and dedication to transforming the educational landscape. Keith's natural ability to inspire and motivate those around him, along with his extensive knowledge of software development, teaching, and entrepreneurship, make him the perfect person to lead a team on this mission to revolutionize education with the power of AI.
+
+# Projected Time Table
 ### Month 1-2: Research and Planning
 1. Conduct market research to identify the specific needs and challenges of the school in Zambia.
 2. Define the scope and requirements of the MVP based on the research findings.
@@ -45,7 +56,8 @@
 2. Provide ongoing support and monitoring to ensure a smooth transition and successful adoption of the platform.
 3. Collect user feedback and track performance metrics to inform future development and improvements of the AI-powered LMS.
 
-## Short Summary:
+# What are we doing?
+## WShort Summary:
 
 Our non-profit foundation aims to revolutionize education by developing an AI-powered learning management system (LMS) that provides high-quality, personalized content and support for students worldwide. The platform will integrate AI tools like ChatGPT with expertly curated content created by teachers to improve learning outcomes for students in both traditional classroom settings and independent learning environments. Our initial focus will be on implementing a prototype school in Zambia, where we will collaborate with local teachers to develop culturally relevant content and measure the effectiveness of our platform through standardized assessments. By supporting our foundation, you will contribute to a transformative educational solution that empowers students, teachers, and communities globally, fostering greater equity in learning opportunities and paving the way for a brighter future.
 

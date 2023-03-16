@@ -12,15 +12,15 @@ export async function getStaticProps() {
   };
 }
 
-
 export default function Blog({ allPostsData }) {
   const siteTitle = "My WebClass.org | Blog"
   return (
-    <Layout Blog>
+    <Layout Blog siteTitle={siteTitle}>
             
       {/* Add this <section> tag below the existing <section> tag */}
-      <h1 className="text-3xl font-bold underline">Blog</h1>  
+        
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+        <h1 className="text-3xl font-bold underline">Blog</h1>
         <ul className={utilStyles.list}>
         <Summary allPostsData={allPostsData}/>
         </ul>

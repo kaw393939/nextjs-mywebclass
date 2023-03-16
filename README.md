@@ -1,10 +1,9 @@
 # MyWebClass NextJs
 
-## Install Instructions
-- npm install 
-- npm start
-- npm run build
-
+## Install Instructions - Install Yarn after node and it is a faster package manager.
+- yarn install 
+- yarn run build
+- yarn run start
 # Why Me...
 
 Keith Williams is an innovative, forward-thinking leader with a passion for revolutionizing education. With a deep understanding of the challenges facing the traditional educational system, Keith is determined to make a lasting impact on the way students learn and grow. His dedication to promoting inclusivity and accessibility in the educational sphere is evident in the development of a cutting-edge AI-powered Learning Management System (LMS) that caters to the diverse needs of learners around the world.
